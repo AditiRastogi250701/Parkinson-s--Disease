@@ -6,4 +6,6 @@ The code helps in detecting whether a person has Parkinson's disease or not.
 
 
 API Command (dataset): kaggle kernels output darshanjain29/parkinsons-disease-solution -p /path/to/dest
+
+
 Dataset link: https://www.kaggle.com/code/darshanjain29/parkinsons-disease-solution/data
